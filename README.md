@@ -1,6 +1,6 @@
 
 Professor, tive algumas dificuldades na execução da tarefa,
-por tanto, reaproveitei o projeto das últimas aulas e fiz
+portanto, reaproveitei o projeto das últimas aulas e fiz
 a adição das partes do CRUD que faltavam (update e delete) 
 
 o escopo do projeto ficou o seguinte:
